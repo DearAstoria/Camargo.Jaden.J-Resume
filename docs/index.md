@@ -1,12 +1,13 @@
 ---
-layout: cv
-title: Jaden J. Camargo's Resume
+layout: resume
+title: Jaden J's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+
+# Jaden J. Camargo
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="jadencamargo@gmail.com">jadencamargo@gmail.com</a>
+| <a href="https://github.com/byui-cse">Computer Science Program</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/jaden-camargo/">LinkedIn</a>
 | <a href="https://github.com/DearAstoria">GitHub</a>
@@ -14,69 +15,33 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+---
+
 ## Education
 
 `Expected 2022`
-__Brigham Young University - Idaho__, Rexburg, ID
+**Brigham Young University - Idaho**, Rexburg, ID
 
+---
 
-## Related Experience
+<!--## Related Experience
 
-### Internships
+## Service and Work History-->
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+<!------->
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+## Work History
 
-### Data Science Lead
+### Assistant Manager
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`January 2016 - January 2020`
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+**Active Culture**, San Clemente, CA
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
+Co-managing busy casual restaurant in San Clemente, ensuring food and beverages go out accurately and timely, while managing staff and daily tasks. Restaurant revenue increased for the 4 consecutive years that I served here. Under my leadership staff were excited to serve and do their work with diligence, respect, and smiles. Propping up new leaders and building them up in their role was one of my key strengths.
+Mitigating problems as they arose was something that came naturally to me
 
 <!-- ### Footer
+Last updated: July 2021-->
 
-Last updated: May 2013 -->
-
-
+`Last updated: July 2021`
