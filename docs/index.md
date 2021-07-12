@@ -15,6 +15,7 @@ Computer Science and Data Science student at BYU-Rexburg, ID
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/jaden-camargo/">LinkedIn</a>
 | <a href="https://github.com/DearAstoria">GitHub</a>
+| <a href="https://www.codewars.com/users/DearAstoria">Codewars</a>
 </div>
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
@@ -46,7 +47,7 @@ _BS Computer Science | Minor in Data Science_
 
 - Currently working with a team of annotators, head by our product manager, and mentored by the developers to detail 3D cloud points in preparation for our client's Machine Learning algorithmn.
 
-- Gaining valuable real life insight in Software Engineering life cycles.
+- Gaining valuable real life insight into Software Engineering life cycles.
 
 ---
 
@@ -66,6 +67,16 @@ TODO: List projects here.
 
 Co-managing busy casual restaurant in San Clemente, ensuring food and beverages go out accurately and timely, while managing staff and daily tasks. Restaurant revenue increased for the 4 consecutive years that I served here. Under my leadership staff were excited to serve and do their work with diligence, respect, and smiles. Propping up new leaders and building them up in their role was one of my key strengths.
 Mitigating problems as they arose was something that came naturally to me
+
+---
+
+## Certifications
+
+Succeeding in DevOps
+
+`May 2021` Issued by LinkedIn
+
+---
 
 <!-- ### Footer
 Last updated: July 2021-->
