@@ -65,8 +65,10 @@ TODO: List projects here.
 
 **Active Culture**, San Clemente, CA
 
-Co-managing busy casual restaurant in San Clemente, ensuring food and beverages go out accurately and timely, while managing staff and daily tasks. Restaurant revenue increased for the 4 consecutive years that I served here. Under my leadership staff were excited to serve and do their work with diligence, respect, and smiles. Propping up new leaders and building them up in their role was one of my key strengths.
-Mitigating problems as they arose was something that came naturally to me
+Co-managing busy casual restaurant in San Clemente, managing staff and daily tasks. 
+-Restaurant revenue increased for the 4 consecutive years that I served here. 
+-Building new leaders
+-Customer relations
 
 ---
 
