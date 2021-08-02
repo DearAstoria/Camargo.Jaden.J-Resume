@@ -5,7 +5,7 @@ title: Jaden J's Resume
 
 # Jaden J. Camargo
 
-Software Engineer | Computer Scientist
+**Software Engineer | Computer Scientist**
 
 <div id="webaddress">
 <a href="jadencamargo@gmail.com">jadencamargo@gmail.com</a>
@@ -30,6 +30,7 @@ _BS Computer Science_
 <!-- Thinking about listing courses here?-->
 
 `2016-2019` **Saddleback College**, Mission Viejo, CA
+
 _BS Computer Science_
 
 ---
@@ -56,24 +57,54 @@ _BS Computer Science_
 
 ## Projects
 
-### Software Engineer - Windows | Linux
+### Machine Learning Engineer
 
-**RPS Online**
+**Book Publishing** _Python_
 
-- Online RPS game using sockets
-- Async connections
-- Threads & Proccesses to maximize efficiency and server load
-- GUI built with TK
-- Made in Python.
+- Prepped data for training: batch sizing, vocab extraction, data cleaning
+
+- Trained models on author's writting style using Reccurrent Neural Networks (RNNs), Tensorflow, Keras
+
+- Model predicts author's next letter up to next paragraph
+
+- Generates new text based on prompt
+
+### Data Analyst
+
+**Bike Rentals** _Python_
+
+- Data Science libraries/packages: Altair, Pandas, Numpy, Matplotlib
+
+- Visualized data for analysis
+
+- Identifyed trends in sales, customer insights
+
+- Produced executive summary
 
 ### Software Engineer - Android
 
-**Personal-Trainer**
+**Personal-Trainer** _Android Studio/Java_
 
 - Personal trainer assistant
 - Facilitates trainer/client training
-- Android Studio/Java 7 SE
 - Customizable training plans
+- Agile work environment
+
+### Software Engineer - Windows | Linux
+
+**RPS Online** _Python_
+
+- Sockets, Async connections
+- Threads and proccesses to maximize efficiency/server load
+- GUI built with TK
+
+### Software Engineer - CMD
+
+**Bank Account Manager** _C++_
+
+- Manages and tracks transactions, deposits, withdrawls
+- Calculates interest
+- Object Oriented
 
 ---
 
