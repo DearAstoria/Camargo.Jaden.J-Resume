@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: resume
 title: Jaden J. Camargo's Resume
 ---
 
