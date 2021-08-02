@@ -5,7 +5,7 @@ title: Jaden J's Resume
 
 # Jaden J. Camargo
 
-Computer Scientist
+Software Engineer | Computer Scientist
 
 <div id="webaddress">
 <a href="jadencamargo@gmail.com">jadencamargo@gmail.com</a>
