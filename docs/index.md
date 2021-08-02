@@ -81,7 +81,7 @@ _BS Computer Science_
 
 - Produced executive summary
 
-### Software Engineer - Android
+### Software Engineer
 
 **Personal-Trainer** _Android Studio/Java_
 
@@ -90,7 +90,7 @@ _BS Computer Science_
 - Customizable training plans
 - Agile work environment
 
-### Software Engineer - Windows | Linux
+### Software Engineer
 
 **RPS Online** _Python_
 
@@ -98,7 +98,7 @@ _BS Computer Science_
 - Threads and proccesses to maximize efficiency/server load
 - GUI built with TK
 
-### Software Engineer - CMD
+### Software Engineer
 
 **Bank Account Manager** _C++_
 
