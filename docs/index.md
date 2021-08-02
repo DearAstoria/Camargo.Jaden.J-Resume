@@ -86,8 +86,13 @@ _BS Computer Science_
 
 **Active Culture**, San Clemente, CA
 
+<<<<<<< HEAD
 Co-managing busy casual restaurant in San Clemente, managing staff and daily tasks.
 -Restaurant revenue increased for the 4 consecutive years that I served here.
+=======
+Co-managing busy casual restaurant in San Clemente, managing staff and daily tasks. 
+-Restaurant revenue increased for the 4 consecutive years that I served here. 
+>>>>>>> 0090a3b0a4b62bd626e2faa5d0e3bd743eae9225
 -Building new leaders
 -Customer relations
 
