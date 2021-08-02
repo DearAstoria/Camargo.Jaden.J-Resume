@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: cv
 title: Jaden J's Resume
 ---
 
@@ -77,7 +77,7 @@ _BS Computer Science_
 
 - Visualized data for analysis
 
-- Identifyed trends in sales, customer insights
+- Identifyed trends in rentals, found customer insights
 
 - Produced executive summary
 
@@ -86,8 +86,11 @@ _BS Computer Science_
 **Personal-Trainer** _Android Studio/Java_
 
 - Personal trainer assistant
+
 - Facilitates trainer/client training
+
 - Customizable training plans
+
 - Agile work environment
 
 ### Software Engineer
@@ -95,7 +98,9 @@ _BS Computer Science_
 **RPS Online** _Python_
 
 - Sockets, Async connections
+
 - Threads and proccesses to maximize efficiency/server load
+
 - GUI built with TK
 
 ### Software Engineer
@@ -103,7 +108,9 @@ _BS Computer Science_
 **Bank Account Manager** _C++_
 
 - Manages and tracks transactions, deposits, withdrawls
+
 - Calculates interest
+
 - Object Oriented
 
 ---
@@ -117,7 +124,9 @@ _BS Computer Science_
 **Active Culture**, San Clemente, CA
 
 -Increased revenue for 4 consecutive years
+
 -Built new leaders
+
 -Customer relations
 
 ---
