@@ -15,7 +15,7 @@ Computer Science and Data Science student at BYU-Rexburg, ID
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/jaden-camargo/">LinkedIn</a>
 | <a href="https://github.com/DearAstoria">GitHub</a>
-| <a href="https://www.codewars.com/users/DearAstoria">Codewars</a>
+<!--| <a href="https://www.codewars.com/users/DearAstoria">Codewars</a>-->
 </div>
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
@@ -24,16 +24,18 @@ Computer Science and Data Science student at BYU-Rexburg, ID
 ## Education
 
 `2020-2022` **Brigham Young University - Idaho**, Rexburg, ID
-
-_BS Computer Science | Minor in Data Science_
-
+<!-- _BS Computer Science | Minor in Data Science_ -->
+_BS Computer Science_
 <!-- Thinking about listing courses here?-->
+
+`2016-2019` **Saddleback College**, Mission Viejo, CA
+_BS Computer Science_ 
 
 ---
 
 ## Top Skills
 
-**Advanced:** Python | Java | C++ | MYSQL | Microsoft Office
+**Advanced:** Python | Java | C++ | MYSQL
 
 **Proficient:** JavaScript | HTML | CSS | PHP | Markdown
 
@@ -53,7 +55,26 @@ _BS Computer Science | Minor in Data Science_
 
 ## Projects
 
-TODO: List projects here.
+### Architect Software Design & Develpmont - Windows 10
+
+`March-June 2021` **RPS Online**, United States
+
+- Max threaded
+- Max processed
+- Modern Programming
+- Async
+- GUI Interface
+- Made in Python.
+
+### Software Engineer - Android Jellybean
+
+`2020-2021` _Get-My-Personal-Trainer_
+
+- Personal trainer assistant
+- Works with standalone clients
+- Facilitates trainer/client training
+- Android Studio/Java 7 SE
+- Exortable training plan
 
 ---
 
@@ -65,8 +86,10 @@ TODO: List projects here.
 
 **Active Culture**, San Clemente, CA
 
-Co-managing busy casual restaurant in San Clemente, ensuring food and beverages go out accurately and timely, while managing staff and daily tasks. Restaurant revenue increased for the 4 consecutive years that I served here. Under my leadership staff were excited to serve and do their work with diligence, respect, and smiles. Propping up new leaders and building them up in their role was one of my key strengths.
-Mitigating problems as they arose was something that came naturally to me
+Co-managing busy casual restaurant in San Clemente, managing staff and daily tasks.
+-Restaurant revenue increased for the 4 consecutive years that I served here.
+-Building new leaders
+-Customer relations
 
 ---
 
