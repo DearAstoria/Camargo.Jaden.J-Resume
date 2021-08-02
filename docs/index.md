@@ -51,8 +51,6 @@ _BS Computer Science_
 
 - Registering, and Annotating 3D point clouds in preparation for computer vision.
 
-- Real life insight into Software Engineering life cycles.
-
 ---
 
 ## Projects
